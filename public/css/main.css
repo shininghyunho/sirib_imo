@@ -299,3 +299,21 @@ select.filter {
 #edit-color {
   color: #d25565;
 }
+
+/* 190911 hgm 수정*/
+
+#head,
+#contact-us{
+    background-color: #a9e34b;
+    text-align : center;
+    width : 100%;
+}
+
+#title{
+  
+  font-size: 100px;
+}
+
+#subtitle{
+  font-size: 80px;
+}
